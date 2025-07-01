@@ -8,3 +8,14 @@ git commit -m "meaasge"
 
 git restore filename
 
+git remote add origin https://github.com/Prateek150389/learn-git---git-hub.git
+
+git remote set url origin https://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@github.com/Prateek150389/learn-git---git-hub
+
+git remote -v
+
+git push -u origin master
+
+
+
+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
