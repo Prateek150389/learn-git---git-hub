@@ -1,0 +1,10 @@
+git init
+
+git status
+
+git add filename
+
+git commit -m "meaasge"
+
+git restore filename
+
